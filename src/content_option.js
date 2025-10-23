@@ -166,7 +166,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/julianSDev",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://linkedin.com/in/julian-schmidt-1b7597394",
     // facebook: "https://facebook.com",
     // twitter: "https://twitter.com",
 };
